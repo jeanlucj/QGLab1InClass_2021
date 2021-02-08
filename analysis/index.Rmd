@@ -9,3 +9,5 @@ editor_options:
 ---
 
 Learning the package workflowr and working on a beginner simulation .Rmd file
+
+[Here is the Simulate.Rmd output](./Simulate.html)
